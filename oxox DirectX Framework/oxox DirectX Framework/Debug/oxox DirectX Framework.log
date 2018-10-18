@@ -1,0 +1,11 @@
+﻿  D3DGraphics.cpp
+d:\xuexi\c-directx-junior-resource-file-master\oxox directx framework\assets\d3dgraphics.cpp(92): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\xuexi\c-directx-junior-resource-file-master\oxox directx framework\assets\d3dgraphics.cpp(108): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\xuexi\c-directx-junior-resource-file-master\oxox directx framework\assets\d3dgraphics.cpp(129): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\xuexi\c-directx-junior-resource-file-master\oxox directx framework\assets\d3dgraphics.cpp(130): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\xuexi\c-directx-junior-resource-file-master\oxox directx framework\assets\d3dgraphics.cpp(133): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Game.cpp
+d:\xuexi\c-directx-junior-resource-file-master\oxox directx framework\assets\game.cpp(39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\xuexi\c-directx-junior-resource-file-master\oxox directx framework\assets\game.cpp(40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  oxox DirectX Framework.vcxproj -> D:\xuexi\C-DirectX-Junior-Resource-File-master\oxox DirectX Framework\Debug\oxox DirectX Framework.exe
